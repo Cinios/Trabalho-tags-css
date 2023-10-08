@@ -10,7 +10,7 @@ body {
 
 header {
   height: 50vh;
-  background-image: linear-gradient(to bottom, #1d1e20, #0059ff, #1d1e20);
+  background-image: linear-gradient(to bottom, #303132, black, #303132);
   display: flex;
   display: flex;
   flex-direction: column;
